@@ -17,7 +17,7 @@ module.exports = function(grunt) {
     uglify : {
       build : {
         src: 'prod/production.js',
-        dest: 'prod/prodcution.min.js'
+        dest: 'prod/production.min.js'
       }
     },
 
